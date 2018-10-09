@@ -1,1 +1,1 @@
-include ':app', ':boundservice'
+include ':app', ':boundservice', ':service_and_broadcast_receiver'
