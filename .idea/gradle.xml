@@ -10,6 +10,7 @@
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/app" />
             <option value="$PROJECT_DIR$/boundservice" />
+            <option value="$PROJECT_DIR$/foreground_service_example" />
             <option value="$PROJECT_DIR$/service_and_broadcast_receiver" />
           </set>
         </option>
